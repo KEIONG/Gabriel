@@ -1,0 +1,12 @@
+2021-04-29 01:04:25.707  INFO 16604 --- [main] com.blog.BlogApplicationTests            : Starting BlogApplicationTests on DESKTOP-K28938K with PID 16604 (started by 13904 in E:\javacode\Gabriel\blog)
+2021-04-29 01:04:25.713 DEBUG 16604 --- [main] com.blog.BlogApplicationTests            : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2021-04-29 01:04:25.713  INFO 16604 --- [main] com.blog.BlogApplicationTests            : The following profiles are active: dev
+2021-04-29 01:04:26.281  INFO 16604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-04-29 01:04:26.391  INFO 16604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-04-29 01:04:26.454  INFO 16604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 24ms. Found 0 Redis repository interfaces.
+2021-04-29 01:04:27.255  INFO 16604 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'redisConfig' of type [com.blog.config.RedisConfig$$EnhancerBySpringCGLIB$$15942951] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-29 01:04:28.486  INFO 16604 --- [main] com.blog.config.RedisConfig              : redis lettuce×¢Èë³É¹¦£¡£¡
+2021-04-29 01:04:29.129  INFO 16604 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-29 01:04:29.267  INFO 16604 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-04-29 01:04:30.178  INFO 16604 --- [main] com.blog.BlogApplicationTests            : Started BlogApplicationTests in 4.759 seconds (JVM running for 5.817)
+2021-04-29 01:04:30.822  INFO 16604 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
